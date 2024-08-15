@@ -177,7 +177,7 @@ class _ShowTripPageState extends State<ShowTripPage> {
                                     Text(
                                         'Duration: ${filteredTrips[index].duration}'),
                                     Text(
-                                        'Price: ${filteredTrips[index].destinationZone}'),
+                                        'Price: ${filteredTrips[index].price}'),
                                     const SizedBox(height: 8),
                                     Align(
                                       alignment: Alignment.bottomRight,
